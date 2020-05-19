@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contact_row__name">Name</string>
+    <string name="contact_row__surname">Surname</string>
+    <string name="contact_row__phone">Phone</string>
+    <string name="contact_row__email">Email</string>
+    <string name="contact_row__phone_icon">phone_icon</string>
+    <string name="contact_row__email_icon">email_icon</string>
+    <string name="activity_main__icon_add">icon_add</string>
+    <string name="activity_main__icon_menu">icon_menu</string>
+    <string name="not_available">Not Available</string>
+    <string name="menu_edit"><font fgcolor='#3782FF'>Edit</font></string>
+    <string name="menu_synchronize">Sync</string>
+    <string name="menu_delete"><font fgcolor='#FF1400'>Delete</font></string>
+    <string name="menu_settings">Settings</string>
+    <string name="developer_info">Developed by peppo.asap</string>
+    <string name="designer_info">Designed by Giuseppe Baittiner</string>
+</resources>
